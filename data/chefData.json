@@ -9,7 +9,7 @@
         "recipes_list": [
             {
                 "recipe_name": "Boeuf Bourguignon",
-                "recipe_picture": "https://example.com/boeuf.jpg",
+                "recipe_picture": "https://i.ibb.co/qMmCs7T/boeuf-bourguignon.jpg",
                 "rating": 4.8,
                 "ingredients": [
                     "beef",
@@ -26,7 +26,7 @@
             },
             {
                 "recipe_name": "Coq au Vin",
-                "recipe_picture": "https://example.com/coq.jpg",
+                "recipe_picture": "https://i.ibb.co/xj2F4cZ/istockphoto-649675556-170667a-400x250.jpg",
                 "rating": 4.7,
                 "ingredients": [
                     "chicken",
@@ -43,7 +43,7 @@
             },
             {
                 "recipe_name": "Quiche Lorraine",
-                "recipe_picture": "https://example.com/quiche.jpg",
+                "recipe_picture": "https://i.ibb.co/KzzxDwW/close-up-photo-classic-quiche-lorraine-pie-with-tomatoes-176420-15965-400x250.jpg",
                 "rating": 4.6,
                 "ingredients": [
                     "eggs",
@@ -60,7 +60,7 @@
             },
             {
                 "recipe_name": "Salade Niçoise",
-                "recipe_picture": "https://example.com/salade.jpg",
+                "recipe_picture": "https://i.ibb.co/5rBSJ22/chicken-skewers-with-onions-top-salad-1220-567-400x250.jpg",
                 "rating": 4.5,
                 "ingredients": [
                     "tuna",
@@ -87,7 +87,7 @@
         "recipes_list": [
             {
                 "recipe_name": "Soupe à l'Oignon",
-                "recipe_picture": "https://example.com/soupe.jpg",
+                "recipe_picture": "https://i.ibb.co/z50fVBp/delicious-rustic-soup-with-vegetables-lentils-peas-103124-48-400x250.jpg",
                 "rating": 4.9,
                 "ingredients": [
                     "onions",
@@ -105,7 +105,7 @@
             },
             {
                 "recipe_name": "Lobster Thermidor",
-                "recipe_picture": "https://example.com/lobster.jpg",
+                "recipe_picture": "https://i.ibb.co/89jBGnd/close-up-delicious-lobster-1258-11-1-400x250.jpg",
                 "rating": 4.8,
                 "ingredients": [
                     "lobster",
@@ -122,7 +122,7 @@
             },
             {
                 "recipe_name": "Boeuf en Croûte",
-                "recipe_picture": "https://example.com/croute.jpg",
+                "recipe_picture": "https://i.ibb.co/b627sCs/pork-medallions-with-salsa-2829-13736-400x250.jpg",
                 "rating": 4.7,
                 "ingredients": [
                     "beef tenderloin",
@@ -140,7 +140,7 @@
             },
             {
                 "recipe_name": "Tarte Tatin",
-                "recipe_picture": "https://example.com/tatin.jpg",
+                "recipe_picture": "https://i.ibb.co/2dF0sv2/istockphoto-504881740-170667a-400x250.jpg",
                 "rating": 4.6,
                 "ingredients": [
                     "apples",
@@ -168,7 +168,7 @@
         "recipes_list": [
             {
                 "recipe_name": "Bouillabaisse",
-                "recipe_picture": "https://example.com/bouillabaisse.jpg",
+                "recipe_picture": "https://i.ibb.co/4sVGLTD/240-F-200675225-DP5-NGz487-EI3-Igft39-Go59oj-S27-DNAk-Q-400x250.jpg",
                 "rating": 4.9,
                 "ingredients": [
                     "fish",
@@ -186,7 +186,7 @@
             },
             {
                 "recipe_name": "Magret de Canard",
-                "recipe_picture": "https://example.com/magret.jpg",
+                "recipe_picture": "https://i.ibb.co/7jT9NCh/240-F-233559258-Obm5-Cu-CYIm-BYDp-HMODd3ztcp-TGpho-YJ3-400x250.jpg",
                 "rating": 4.8,
                 "ingredients": [
                     "duck breast",
@@ -204,7 +204,7 @@
             },
             {
                 "recipe_name": "Ratatouille",
-                "recipe_picture": "https://example.com/ratatouille.jpg",
+                "recipe_picture": "https://i.ibb.co/vXKHbKM/grilled-summer-vegetables-wooden-plate-refreshment-generated-by-ai-188544-10113-400x250.jpg",
                 "rating": 4.7,
                 "ingredients": [
                     "eggplant",
@@ -221,7 +221,7 @@
             },
             {
                 "recipe_name": "Crème Brûlée",
-                "recipe_picture": "https://example.com/creme.jpg",
+                "recipe_picture": "https://i.ibb.co/tQPK5Lb/istockphoto-535451891-170667a-400x250.jpg",
                 "rating": 4.6,
                 "ingredients": [
                     "cream",
@@ -248,7 +248,7 @@
         "recipes_list": [
             {
                 "recipe_name": "Pommes Purée",
-                "recipe_picture": "https://example.com/puree.jpg",
+                "recipe_picture": "https://i.ibb.co/HTtjfP5/homemade-apple-sauce-apple-puree-ceramic-bowl-rustic-wooden-table-top-view-59529-1342-400x250.jpg",
                 "rating": 4.9,
                 "ingredients": [
                     "potatoes",
@@ -264,7 +264,7 @@
             },
             {
                 "recipe_name": "Quenelle de Brochet",
-                "recipe_picture": "https://example.com/quenelle.jpg",
+                "recipe_picture": "https://i.ibb.co/1b0gJfx/side-view-chicken-skewers-grilled-chicken-fillet-with-red-yellow-peppers-seasoning-sauce-sesame-seed.jpg",
                 "rating": 4.8,
                 "ingredients": [
                     "pike",
@@ -281,7 +281,7 @@
             },
             {
                 "recipe_name": "Foie Gras Terrine",
-                "recipe_picture": "https://example.com/terrine.jpg",
+                "recipe_picture": "https://i.ibb.co/BGCV3cx/homemade-meat-snack-chicken-liver-pate-with-savory-olives-2829-11223-400x250.jpg",
                 "rating": 4.7,
                 "ingredients": [
                     "foie gras",
@@ -299,7 +299,7 @@
             },
             {
                 "recipe_name": "Sole Meunière",
-                "recipe_picture": "https://example.com/sole.jpg",
+                "recipe_picture": "https://i.ibb.co/YfwxXy6/istockphoto-1483242443-170667a-400x250.jpg",
                 "rating": 4.6,
                 "ingredients": [
                     "sole",
@@ -326,7 +326,7 @@
         "recipes_list": [
             {
                 "recipe_name": "Soupe à l'Oignon",
-                "recipe_picture": "https://example.com/onion.jpg",
+                "recipe_picture": "https://i.ibb.co/z50fVBp/delicious-rustic-soup-with-vegetables-lentils-peas-103124-48-400x250.jpg",
                 "rating": 4.9,
                 "ingredients": [
                     "onions",
@@ -344,7 +344,7 @@
             },
             {
                 "recipe_name": "Coq au Vin",
-                "recipe_picture": "https://example.com/coq.jpg",
+                "recipe_picture": "https://i.ibb.co/xj2F4cZ/istockphoto-649675556-170667a-400x250.jpg",
                 "rating": 4.8,
                 "ingredients": [
                     "chicken",
@@ -362,7 +362,7 @@
             },
             {
                 "recipe_name": "Lyonnaise Salad",
-                "recipe_picture": "https://example.com/salad.jpg",
+                "recipe_picture": "https://i.ibb.co/ctsDK60/green-salad-wooden-platter-with-mayonnaise-sauce-114579-70098-400x250.jpg",
                 "rating": 4.7,
                 "ingredients": [
                     "frisée lettuce",
@@ -379,7 +379,7 @@
             },
             {
                 "recipe_name": "Tarte Tatin",
-                "recipe_picture": "https://example.com/tarte.jpg",
+                "recipe_picture": "https://i.ibb.co/2dF0sv2/istockphoto-504881740-170667a-400x250.jpg",
                 "rating": 4.6,
                 "ingredients": [
                     "apples",
@@ -406,7 +406,7 @@
         "recipes_list": [
             {
                 "recipe_name": "Soupe d'Artichaut à la Truffe Noire",
-                "recipe_picture": "https://example.com/soupe.jpg",
+                "recipe_picture": "https://i.ibb.co/CBKXsBm/view-delicious-food-table-23-2149629080-400x250.jpg",
                 "rating": 4.9,
                 "ingredients": [
                     "artichokes",
@@ -422,7 +422,7 @@
             },
             {
                 "recipe_name": "Homard à la Presse",
-                "recipe_picture": "https://example.com/homard.jpg",
+                "recipe_picture": "https://i.ibb.co/q7RLQQt/close-up-delicious-lobster-1258-11-400x250.jpg",
                 "rating": 4.8,
                 "ingredients": [
                     "lobster",
@@ -438,7 +438,7 @@
             },
             {
                 "recipe_name": "Coeur d'Artichaut et Foie Gras",
-                "recipe_picture": "https://example.com/coeur.jpg",
+                "recipe_picture": "https://i.ibb.co/WkyPKN8/grilled-avocado-salad-tuna-fish-pepper-radish-141793-3543-400x250.jpg",
                 "rating": 4.7,
                 "ingredients": [
                     "artichoke hearts",
@@ -454,7 +454,7 @@
             },
             {
                 "recipe_name": "Poulet aux Écrevisses",
-                "recipe_picture": "https://example.com/poulet-ecrevisses.jpg",
+                "recipe_picture": "https://i.ibb.co/vqf55pP/delicious-crab-with-padang-sauce-its-indonesian-seafood-dish-crab-464898-608-400x250.jpg",
                 "rating": 4.6,
                 "ingredients": [
                     "chicken",
