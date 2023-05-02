@@ -2,546 +2,473 @@
     {
         "id": 1,
         "name": "Chef John Smith",
-        "picture": "https://example.com/chef-john-smith.jpg",
+        "picture": "https://i.ibb.co/qy8TGTm/chef1.png",
         "years_of_experience": 15,
         "num_recipes": 50,
         "num_likes": 1000,
         "recipes_list": [
             {
+                "recipe_name": "Boeuf Bourguignon",
+                "recipe_picture": "https://example.com/boeuf.jpg",
+                "rating": 4.8,
+                "ingredients": [
+                    "beef",
+                    "red wine",
+                    "onions",
+                    "carrots",
+                    "garlic"
+                ],
+                "cooking_method": [
+                    "Brown beef in a Dutch oven.",
+                    "Add vegetables and wine.",
+                    "Cover and bake for 2-3 hours."
+                ]
+            },
+            {
                 "recipe_name": "Coq au Vin",
-                "recipe_image": "https://example.com/coq-au-vin.jpg",
+                "recipe_picture": "https://example.com/coq.jpg",
+                "rating": 4.7,
                 "ingredients": [
                     "chicken",
+                    "red wine",
                     "bacon",
                     "mushrooms",
-                    "onion",
-                    "red wine"
+                    "onions"
                 ],
                 "cooking_method": [
-                    "Preheat the oven to 325°F.",
-                    "In a Dutch oven, cook bacon over medium heat until crisp.",
-                    "Remove the bacon from the pot and set aside.",
-                    "Brown chicken in the remaining bacon fat.",
-                    "Add the mushrooms and onions, and sauté until softened.",
-                    "Pour in the wine, add the bacon back to the pot, and cover.",
-                    "Bake in the oven for 1 to 1 1/2 hours."
-                ],
-                "rating": 4.5
-            },
-            {
-                "recipe_name": "Ratatouille",
-                "recipe_image": "https://example.com/ratatouille.jpg",
-                "ingredients": [
-                    "eggplant",
-                    "zucchini",
-                    "yellow squash",
-                    "tomatoes",
-                    "onion"
-                ],
-                "cooking_method": [
-                    "Slice the eggplant, zucchini, and yellow squash into rounds.",
-                    "Slice the tomatoes and onion into thin wedges.",
-                    "Layer the vegetables in a baking dish, starting with the eggplant.",
-                    "Drizzle olive oil over the vegetables and season with salt and pepper.",
-                    "Bake in a preheated oven at 375°F for 45 minutes to 1 hour."
-                ],
-                "rating": 4.0
-            },
-            {
-                "recipe_name": "Beef Bourguignon",
-                "recipe_image": "https://example.com/beef-bourguignon.jpg",
-                "ingredients": [
-                    "beef chuck",
-                    "bacon",
-                    "carrots",
-                    "onion",
-                    "red wine"
-                ],
-                "cooking_method": [
-                    "Preheat the oven to 325°F.",
-                    "Cook the bacon in a Dutch oven over medium heat until crisp.",
-                    "Remove the bacon from the pot and set aside.",
-                    "Brown the beef in the remaining bacon fat.",
-                    "Add the carrots and onions, and sauté until softened.",
-                    "Pour in the wine, add the bacon back to the pot, and cover.",
-                    "Bake in the oven for 2 1/2 to 3 hours."
-                ],
-                "rating": 4.2
+                    "Brown chicken and bacon in a Dutch oven.",
+                    "Add vegetables and wine.",
+                    "Cover and simmer for 1-2 hours."
+                ]
             },
             {
                 "recipe_name": "Quiche Lorraine",
-                "recipe_image": "https://example.com/quiche-lorraine.jpg",
+                "recipe_picture": "https://example.com/quiche.jpg",
+                "rating": 4.6,
                 "ingredients": [
-                    "pie crust",
-                    "bacon",
-                    "gruyere cheese",
                     "eggs",
-                    "heavy cream"
+                    "cream",
+                    "bacon",
+                    "cheese",
+                    "pie crust"
                 ],
                 "cooking_method": [
-                    "Preheat the oven to 375°F.",
-                    "Cook the bacon in a skillet over medium heat until crisp.",
-                    "Drain the bacon and crumble it.",
-                    "Roll out the pie crust and fit it into a 9-inch pie dish.",
-                    "Sprinkle the bacon and cheese over the bottom of the crust.",
-                    "Whisk together the eggs and cream, and pour the mixture over the bacon and cheese."
+                    "Mix eggs, cream, and cheese.",
+                    "Add bacon and pour into pie crust.",
+                    "Bake for 30-40 minutes."
+                ]
+            },
+            {
+                "recipe_name": "Salade Niçoise",
+                "recipe_picture": "https://example.com/salade.jpg",
+                "rating": 4.5,
+                "ingredients": [
+                    "tuna",
+                    "eggs",
+                    "tomatoes",
+                    "green beans",
+                    "olives"
                 ],
-                "rating": 4.9
+                "cooking_method": [
+                    "Boil eggs and blanch green beans.",
+                    "Assemble salad with tuna, tomatoes, and olives.",
+                    "Top with eggs and serve with vinaigrette dressing."
+                ]
             }
         ]
     },
     {
         "id": 2,
         "name": "Chef Sarah Lee",
-        "picture": "https://example.com/chef-sarah-lee.jpg",
+        "picture": "https://i.ibb.co/vkmkp2H/chef2.png",
         "years_of_experience": 10,
         "num_recipes": 30,
         "num_likes": 750,
         "recipes_list": [
             {
-                "recipe_name": "Coq au Vin",
-                "recipe_image": "https://example.com/coq-au-vin.jpg",
+                "recipe_name": "Soupe à l'Oignon",
+                "recipe_picture": "https://example.com/soupe.jpg",
+                "rating": 4.9,
                 "ingredients": [
-                    "chicken",
-                    "bacon",
+                    "onions",
+                    "beef broth",
+                    "bread",
+                    "cheese",
+                    "butter"
+                ],
+                "cooking_method": [
+                    "Caramelize onions.",
+                    "Add broth and simmer.",
+                    "Toast bread and top with cheese.",
+                    "Serve soup with bread on top."
+                ]
+            },
+            {
+                "recipe_name": "Lobster Thermidor",
+                "recipe_picture": "https://example.com/lobster.jpg",
+                "rating": 4.8,
+                "ingredients": [
+                    "lobster",
+                    "butter",
+                    "shallots",
+                    "white wine",
+                    "mustard"
+                ],
+                "cooking_method": [
+                    "Cook lobster meat and set aside.",
+                    "Make a sauce with butter, shallots, wine, and mustard.",
+                    "Combine the lobster meat and sauce, and bake in a dish with cheese on top."
+                ]
+            },
+            {
+                "recipe_name": "Boeuf en Croûte",
+                "recipe_picture": "https://example.com/croute.jpg",
+                "rating": 4.7,
+                "ingredients": [
+                    "beef tenderloin",
+                    "puff pastry",
                     "mushrooms",
-                    "onion",
-                    "red wine"
+                    "foie gras",
+                    "egg"
                 ],
                 "cooking_method": [
-                    "Preheat the oven to 325°F.",
-                    "In a Dutch oven, cook bacon over medium heat until crisp.",
-                    "Remove the bacon from the pot and set aside.",
-                    "Brown chicken in the remaining bacon fat.",
-                    "Add the mushrooms and onions, and sauté until softened.",
-                    "Pour in the wine, add the bacon back to the pot, and cover.",
-                    "Bake in the oven for 1 to 1 1/2 hours."
-                ],
-                "rating": 4.5
+                    "Sear beef and let cool.",
+                    "Spread puff pastry and layer with mushrooms and foie gras.",
+                    "Place beef on top and wrap in pastry.",
+                    "Brush with egg and bake until golden brown."
+                ]
             },
             {
-                "recipe_name": "Ratatouille",
-                "recipe_image": "https://example.com/ratatouille.jpg",
+                "recipe_name": "Tarte Tatin",
+                "recipe_picture": "https://example.com/tatin.jpg",
+                "rating": 4.6,
                 "ingredients": [
-                    "eggplant",
-                    "zucchini",
-                    "yellow squash",
-                    "tomatoes",
-                    "onion"
+                    "apples",
+                    "sugar",
+                    "butter",
+                    "puff pastry",
+                    "vanilla ice cream"
                 ],
                 "cooking_method": [
-                    "Slice the eggplant, zucchini, and yellow squash into rounds.",
-                    "Slice the tomatoes and onion into thin wedges.",
-                    "Layer the vegetables in a baking dish, starting with the eggplant.",
-                    "Drizzle olive oil over the vegetables and season with salt and pepper.",
-                    "Bake in a preheated oven at 375°F for 45 minutes to 1 hour."
-                ],
-                "rating": 4.0
-            },
-            {
-                "recipe_name": "Beef Bourguignon",
-                "recipe_image": "https://example.com/beef-bourguignon.jpg",
-                "ingredients": [
-                    "beef chuck",
-                    "bacon",
-                    "carrots",
-                    "onion",
-                    "red wine"
-                ],
-                "cooking_method": [
-                    "Preheat the oven to 325°F.",
-                    "Cook the bacon in a Dutch oven over medium heat until crisp.",
-                    "Remove the bacon from the pot and set aside.",
-                    "Brown the beef in the remaining bacon fat.",
-                    "Add the carrots and onions, and sauté until softened.",
-                    "Pour in the wine, add the bacon back to the pot, and cover.",
-                    "Bake in the oven for 2 1/2 to 3 hours."
-                ],
-                "rating": 4.2
-            },
-            {
-                "recipe_name": "Quiche Lorraine",
-                "recipe_image": "https://example.com/quiche-lorraine.jpg",
-                "ingredients": [
-                    "pie crust",
-                    "bacon",
-                    "gruyere cheese",
-                    "eggs",
-                    "heavy cream"
-                ],
-                "cooking_method": [
-                    "Preheat the oven to 375°F.",
-                    "Cook the bacon in a skillet over medium heat until crisp.",
-                    "Drain the bacon and crumble it.",
-                    "Roll out the pie crust and fit it into a 9-inch pie dish.",
-                    "Sprinkle the bacon and cheese over the bottom of the crust.",
-                    "Whisk together the eggs and cream, and pour the mixture over the bacon and cheese."
-                ],
-                "rating": 4.9
+                    "Caramelize apples with sugar and butter.",
+                    "Layer in a dish and top with puff pastry.",
+                    "Bake until golden brown and invert onto a plate.",
+                    "Serve with vanilla ice cream."
+                ]
             }
         ]
     },
     {
         "id": 3,
         "name": "Chef Antonio Rodriguez",
-        "picture": "https://example.com/chef-antonio-rodriguez.jpg",
+        "picture": "https://i.ibb.co/K9jKp69/chef3.png",
         "years_of_experience": 20,
         "num_recipes": 80,
         "num_likes": 2000,
         "recipes_list": [
             {
-                "recipe_name": "Coq au Vin",
-                "recipe_image": "https://example.com/coq-au-vin.jpg",
+                "recipe_name": "Bouillabaisse",
+                "recipe_picture": "https://example.com/bouillabaisse.jpg",
+                "rating": 4.9,
                 "ingredients": [
-                    "chicken",
-                    "bacon",
-                    "mushrooms",
-                    "onion",
-                    "red wine"
+                    "fish",
+                    "tomatoes",
+                    "potatoes",
+                    "fennel",
+                    "garlic"
                 ],
                 "cooking_method": [
-                    "Preheat the oven to 325°F.",
-                    "In a Dutch oven, cook bacon over medium heat until crisp.",
-                    "Remove the bacon from the pot and set aside.",
-                    "Brown chicken in the remaining bacon fat.",
-                    "Add the mushrooms and onions, and sauté until softened.",
-                    "Pour in the wine, add the bacon back to the pot, and cover.",
-                    "Bake in the oven for 1 to 1 1/2 hours."
+                    "Sauté vegetables and add fish and water.",
+                    "Simmer until fish is cooked and remove.",
+                    "Blend vegetables into a sauce and return fish to the pot.",
+                    "Serve with bread and rouille sauce."
+                ]
+            },
+            {
+                "recipe_name": "Magret de Canard",
+                "recipe_picture": "https://example.com/magret.jpg",
+                "rating": 4.8,
+                "ingredients": [
+                    "duck breast",
+                    "potatoes",
+                    "green beans",
+                    "thyme",
+                    "garlic"
                 ],
-                "rating": 4.5
+                "cooking_method": [
+                    "Score duck skin and sear in a pan.",
+                    "Bake in the oven until cooked.",
+                    "Sauté potatoes and green beans with thyme and garlic.",
+                    "Slice duck and serve with vegetables."
+                ]
             },
             {
                 "recipe_name": "Ratatouille",
-                "recipe_image": "https://example.com/ratatouille.jpg",
+                "recipe_picture": "https://example.com/ratatouille.jpg",
+                "rating": 4.7,
                 "ingredients": [
                     "eggplant",
                     "zucchini",
-                    "yellow squash",
                     "tomatoes",
-                    "onion"
+                    "onions",
+                    "garlic"
                 ],
                 "cooking_method": [
-                    "Slice the eggplant, zucchini, and yellow squash into rounds.",
-                    "Slice the tomatoes and onion into thin wedges.",
-                    "Layer the vegetables in a baking dish, starting with the eggplant.",
-                    "Drizzle olive oil over the vegetables and season with salt and pepper.",
-                    "Bake in a preheated oven at 375°F for 45 minutes to 1 hour."
-                ],
-                "rating": 4.0
+                    "Sauté vegetables in a pan.",
+                    "Simmer until tender and remove from heat.",
+                    "Serve as a side dish or with rice."
+                ]
             },
             {
-                "recipe_name": "Beef Bourguignon",
-                "recipe_image": "https://example.com/beef-bourguignon.jpg",
+                "recipe_name": "Crème Brûlée",
+                "recipe_picture": "https://example.com/creme.jpg",
+                "rating": 4.6,
                 "ingredients": [
-                    "beef chuck",
-                    "bacon",
-                    "carrots",
-                    "onion",
-                    "red wine"
+                    "cream",
+                    "sugar",
+                    "egg yolks",
+                    "vanilla",
+                    "brown sugar"
                 ],
                 "cooking_method": [
-                    "Preheat the oven to 325°F.",
-                    "Cook the bacon in a Dutch oven over medium heat until crisp.",
-                    "Remove the bacon from the pot and set aside.",
-                    "Brown the beef in the remaining bacon fat.",
-                    "Add the carrots and onions, and sauté until softened.",
-                    "Pour in the wine, add the bacon back to the pot, and cover.",
-                    "Bake in the oven for 2 1/2 to 3 hours."
-                ],
-                "rating": 4.2
-            },
-            {
-                "recipe_name": "Quiche Lorraine",
-                "recipe_image": "https://example.com/quiche-lorraine.jpg",
-                "ingredients": [
-                    "pie crust",
-                    "bacon",
-                    "gruyere cheese",
-                    "eggs",
-                    "heavy cream"
-                ],
-                "cooking_method": [
-                    "Preheat the oven to 375°F.",
-                    "Cook the bacon in a skillet over medium heat until crisp.",
-                    "Drain the bacon and crumble it.",
-                    "Roll out the pie crust and fit it into a 9-inch pie dish.",
-                    "Sprinkle the bacon and cheese over the bottom of the crust.",
-                    "Whisk together the eggs and cream, and pour the mixture over the bacon and cheese."
-                ],
-                "rating": 4.9
+                    "Mix cream, sugar, yolks, and vanilla.",
+                    "Bake in ramekins and chill.",
+                    "Top with brown sugar and caramelize with a torch."
+                ]
             }
         ]
     },
     {
         "id": 4,
         "name": "Chef Emily Chen",
-        "picture": "https://example.com/chef-emily-chen.jpg",
+        "picture": "https://i.ibb.co/Gtd4CZc/chef4.png",
         "years_of_experience": 8,
         "num_recipes": 25,
         "num_likes": 500,
         "recipes_list": [
             {
-                "recipe_name": "Coq au Vin",
-                "recipe_image": "https://example.com/coq-au-vin.jpg",
+                "recipe_name": "Pommes Purée",
+                "recipe_picture": "https://example.com/puree.jpg",
+                "rating": 4.9,
                 "ingredients": [
-                    "chicken",
-                    "bacon",
-                    "mushrooms",
-                    "onion",
-                    "red wine"
+                    "potatoes",
+                    "butter",
+                    "cream",
+                    "salt",
+                    "pepper"
                 ],
                 "cooking_method": [
-                    "Preheat the oven to 325°F.",
-                    "In a Dutch oven, cook bacon over medium heat until crisp.",
-                    "Remove the bacon from the pot and set aside.",
-                    "Brown chicken in the remaining bacon fat.",
-                    "Add the mushrooms and onions, and sauté until softened.",
-                    "Pour in the wine, add the bacon back to the pot, and cover.",
-                    "Bake in the oven for 1 to 1 1/2 hours."
-                ],
-                "rating": 4.5
+                    "Boil potatoes until soft and mash with butter and cream.",
+                    "Season with salt and pepper."
+                ]
             },
             {
-                "recipe_name": "Ratatouille",
-                "recipe_image": "https://example.com/ratatouille.jpg",
+                "recipe_name": "Quenelle de Brochet",
+                "recipe_picture": "https://example.com/quenelle.jpg",
+                "rating": 4.8,
                 "ingredients": [
-                    "eggplant",
-                    "zucchini",
-                    "yellow squash",
-                    "tomatoes",
-                    "onion"
-                ],
-                "cooking_method": [
-                    "Slice the eggplant, zucchini, and yellow squash into rounds.",
-                    "Slice the tomatoes and onion into thin wedges.",
-                    "Layer the vegetables in a baking dish, starting with the eggplant.",
-                    "Drizzle olive oil over the vegetables and season with salt and pepper.",
-                    "Bake in a preheated oven at 375°F for 45 minutes to 1 hour."
-                ],
-                "rating": 4.0
-            },
-            {
-                "recipe_name": "Beef Bourguignon",
-                "recipe_image": "https://example.com/beef-bourguignon.jpg",
-                "ingredients": [
-                    "beef chuck",
-                    "bacon",
-                    "carrots",
-                    "onion",
-                    "red wine"
-                ],
-                "cooking_method": [
-                    "Preheat the oven to 325°F.",
-                    "Cook the bacon in a Dutch oven over medium heat until crisp.",
-                    "Remove the bacon from the pot and set aside.",
-                    "Brown the beef in the remaining bacon fat.",
-                    "Add the carrots and onions, and sauté until softened.",
-                    "Pour in the wine, add the bacon back to the pot, and cover.",
-                    "Bake in the oven for 2 1/2 to 3 hours."
-                ],
-                "rating": 4.2
-            },
-            {
-                "recipe_name": "Quiche Lorraine",
-                "recipe_image": "https://example.com/quiche-lorraine.jpg",
-                "ingredients": [
-                    "pie crust",
-                    "bacon",
-                    "gruyere cheese",
+                    "pike",
+                    "cream",
                     "eggs",
-                    "heavy cream"
+                    "butter",
+                    "flour"
                 ],
                 "cooking_method": [
-                    "Preheat the oven to 375°F.",
-                    "Cook the bacon in a skillet over medium heat until crisp.",
-                    "Drain the bacon and crumble it.",
-                    "Roll out the pie crust and fit it into a 9-inch pie dish.",
-                    "Sprinkle the bacon and cheese over the bottom of the crust.",
-                    "Whisk together the eggs and cream, and pour the mixture over the bacon and cheese."
+                    "Purée pike with cream and eggs.",
+                    "Shape into quenelles and poach in water.",
+                    "Serve with a butter and flour sauce."
+                ]
+            },
+            {
+                "recipe_name": "Foie Gras Terrine",
+                "recipe_picture": "https://example.com/terrine.jpg",
+                "rating": 4.7,
+                "ingredients": [
+                    "foie gras",
+                    "port wine",
+                    "brandy",
+                    "salt",
+                    "pepper"
                 ],
-                "rating": 4.9
+                "cooking_method": [
+                    "Marinate foie gras in wine and brandy.",
+                    "Layer in a terrine and season with salt and pepper.",
+                    "Bake in a water bath and chill.",
+                    "Serve with toast or brioche."
+                ]
+            },
+            {
+                "recipe_name": "Sole Meunière",
+                "recipe_picture": "https://example.com/sole.jpg",
+                "rating": 4.6,
+                "ingredients": [
+                    "sole",
+                    "flour",
+                    "butter",
+                    "lemon",
+                    "parsley"
+                ],
+                "cooking_method": [
+                    "Dredge sole in flour and sauté in butter.",
+                    "Squeeze lemon over the fish and garnish with parsley.",
+                    "Serve with potatoes or vegetables."
+                ]
             }
         ]
     },
     {
         "id": 5,
         "name": "Chef David Kim",
-        "picture": "https://example.com/chef-david-kim.jpg",
+        "picture": "https://i.ibb.co/PgdtSm2/chef5.png",
         "years_of_experience": 12,
         "num_recipes": 40,
         "num_likes": 900,
         "recipes_list": [
             {
+                "recipe_name": "Soupe à l'Oignon",
+                "recipe_picture": "https://example.com/onion.jpg",
+                "rating": 4.9,
+                "ingredients": [
+                    "onions",
+                    "beef broth",
+                    "gruyere cheese",
+                    "baguette",
+                    "butter"
+                ],
+                "cooking_method": [
+                    "Caramelize onions in butter.",
+                    "Add beef broth and simmer.",
+                    "Top with a slice of baguette and gruyere cheese.",
+                    "Broil until cheese is melted and bubbly."
+                ]
+            },
+            {
                 "recipe_name": "Coq au Vin",
-                "recipe_image": "https://example.com/coq-au-vin.jpg",
+                "recipe_picture": "https://example.com/coq.jpg",
+                "rating": 4.8,
                 "ingredients": [
                     "chicken",
+                    "red wine",
                     "bacon",
                     "mushrooms",
-                    "onion",
-                    "red wine"
+                    "pearl onions"
                 ],
                 "cooking_method": [
-                    "Preheat the oven to 325°F.",
-                    "In a Dutch oven, cook bacon over medium heat until crisp.",
-                    "Remove the bacon from the pot and set aside.",
-                    "Brown chicken in the remaining bacon fat.",
-                    "Add the mushrooms and onions, and sauté until softened.",
-                    "Pour in the wine, add the bacon back to the pot, and cover.",
-                    "Bake in the oven for 1 to 1 1/2 hours."
-                ],
-                "rating": 4.5
+                    "Sear chicken and remove from the pot.",
+                    "Sauté bacon, mushrooms, and onions.",
+                    "Add wine and chicken and simmer.",
+                    "Serve with potatoes or rice."
+                ]
             },
             {
-                "recipe_name": "Ratatouille",
-                "recipe_image": "https://example.com/ratatouille.jpg",
+                "recipe_name": "Lyonnaise Salad",
+                "recipe_picture": "https://example.com/salad.jpg",
+                "rating": 4.7,
                 "ingredients": [
-                    "eggplant",
-                    "zucchini",
-                    "yellow squash",
-                    "tomatoes",
-                    "onion"
+                    "frisée lettuce",
+                    "lardons",
+                    "poached egg",
+                    "croutons",
+                    "dijon vinaigrette"
                 ],
                 "cooking_method": [
-                    "Slice the eggplant, zucchini, and yellow squash into rounds.",
-                    "Slice the tomatoes and onion into thin wedges.",
-                    "Layer the vegetables in a baking dish, starting with the eggplant.",
-                    "Drizzle olive oil over the vegetables and season with salt and pepper.",
-                    "Bake in a preheated oven at 375°F for 45 minutes to 1 hour."
-                ],
-                "rating": 4.0
+                    "Toss frisée lettuce with dijon vinaigrette.",
+                    "Top with lardons and croutons.",
+                    "Poach an egg and place on top of the salad."
+                ]
             },
             {
-                "recipe_name": "Beef Bourguignon",
-                "recipe_image": "https://example.com/beef-bourguignon.jpg",
+                "recipe_name": "Tarte Tatin",
+                "recipe_picture": "https://example.com/tarte.jpg",
+                "rating": 4.6,
                 "ingredients": [
-                    "beef chuck",
-                    "bacon",
-                    "carrots",
-                    "onion",
-                    "red wine"
+                    "apples",
+                    "butter",
+                    "sugar",
+                    "puff pastry"
                 ],
                 "cooking_method": [
-                    "Preheat the oven to 325°F.",
-                    "Cook the bacon in a Dutch oven over medium heat until crisp.",
-                    "Remove the bacon from the pot and set aside.",
-                    "Brown the beef in the remaining bacon fat.",
-                    "Add the carrots and onions, and sauté until softened.",
-                    "Pour in the wine, add the bacon back to the pot, and cover.",
-                    "Bake in the oven for 2 1/2 to 3 hours."
-                ],
-                "rating": 4.2
-            },
-            {
-                "recipe_name": "Quiche Lorraine",
-                "recipe_image": "https://example.com/quiche-lorraine.jpg",
-                "ingredients": [
-                    "pie crust",
-                    "bacon",
-                    "gruyere cheese",
-                    "eggs",
-                    "heavy cream"
-                ],
-                "cooking_method": [
-                    "Preheat the oven to 375°F.",
-                    "Cook the bacon in a skillet over medium heat until crisp.",
-                    "Drain the bacon and crumble it.",
-                    "Roll out the pie crust and fit it into a 9-inch pie dish.",
-                    "Sprinkle the bacon and cheese over the bottom of the crust.",
-                    "Whisk together the eggs and cream, and pour the mixture over the bacon and cheese."
-                ],
-                "rating": 4.9
+                    "Cook apples in butter and sugar until caramelized.",
+                    "Arrange in a baking dish and top with puff pastry.",
+                    "Bake until golden brown.",
+                    "Invert onto a plate and serve with crème fraîche."
+                ]
             }
         ]
     },
     {
         "id": 6,
         "name": "Chef Rachel Patel",
-        "picture": "https://example.com/chef-rachel-patel.jpg",
+        "picture": "https://i.ibb.co/3fV4npk/chef6.png",
         "years_of_experience": 6,
         "num_recipes": 20,
         "num_likes": 300,
         "recipes_list": [
             {
-                "recipe_name": "Coq au Vin",
-                "recipe_image": "https://example.com/coq-au-vin.jpg",
+                "recipe_name": "Soupe d'Artichaut à la Truffe Noire",
+                "recipe_picture": "https://example.com/soupe.jpg",
+                "rating": 4.9,
+                "ingredients": [
+                    "artichokes",
+                    "black truffle",
+                    "cream",
+                    "butter"
+                ],
+                "cooking_method": [
+                    "Cook artichokes in butter and cream.",
+                    "Puree and strain.",
+                    "Add shaved black truffle and serve hot."
+                ]
+            },
+            {
+                "recipe_name": "Homard à la Presse",
+                "recipe_picture": "https://example.com/homard.jpg",
+                "rating": 4.8,
+                "ingredients": [
+                    "lobster",
+                    "cognac",
+                    "cream",
+                    "butter"
+                ],
+                "cooking_method": [
+                    "Cook lobster in butter and cognac.",
+                    "Extract the juices using a press.",
+                    "Reduce the juices with cream and serve over the lobster."
+                ]
+            },
+            {
+                "recipe_name": "Coeur d'Artichaut et Foie Gras",
+                "recipe_picture": "https://example.com/coeur.jpg",
+                "rating": 4.7,
+                "ingredients": [
+                    "artichoke hearts",
+                    "foie gras",
+                    "butter",
+                    "white wine"
+                ],
+                "cooking_method": [
+                    "Cook artichoke hearts in butter and white wine.",
+                    "Pan-sear foie gras.",
+                    "Serve the foie gras on top of the artichoke hearts."
+                ]
+            },
+            {
+                "recipe_name": "Poulet aux Écrevisses",
+                "recipe_picture": "https://example.com/poulet-ecrevisses.jpg",
+                "rating": 4.6,
                 "ingredients": [
                     "chicken",
-                    "bacon",
-                    "mushrooms",
-                    "onion",
-                    "red wine"
+                    "crayfish",
+                    "white wine",
+                    "cream",
+                    "butter"
                 ],
                 "cooking_method": [
-                    "Preheat the oven to 325°F.",
-                    "In a Dutch oven, cook bacon over medium heat until crisp.",
-                    "Remove the bacon from the pot and set aside.",
-                    "Brown chicken in the remaining bacon fat.",
-                    "Add the mushrooms and onions, and sauté until softened.",
-                    "Pour in the wine, add the bacon back to the pot, and cover.",
-                    "Bake in the oven for 1 to 1 1/2 hours."
-                ],
-                "rating": 4.5
-            },
-            {
-                "recipe_name": "Ratatouille",
-                "recipe_image": "https://example.com/ratatouille.jpg",
-                "ingredients": [
-                    "eggplant",
-                    "zucchini",
-                    "yellow squash",
-                    "tomatoes",
-                    "onion"
-                ],
-                "cooking_method": [
-                    "Slice the eggplant, zucchini, and yellow squash into rounds.",
-                    "Slice the tomatoes and onion into thin wedges.",
-                    "Layer the vegetables in a baking dish, starting with the eggplant.",
-                    "Drizzle olive oil over the vegetables and season with salt and pepper.",
-                    "Bake in a preheated oven at 375°F for 45 minutes to 1 hour."
-                ],
-                "rating": 4.0
-            },
-            {
-                "recipe_name": "Beef Bourguignon",
-                "recipe_image": "https://example.com/beef-bourguignon.jpg",
-                "ingredients": [
-                    "beef chuck",
-                    "bacon",
-                    "carrots",
-                    "onion",
-                    "red wine"
-                ],
-                "cooking_method": [
-                    "Preheat the oven to 325°F.",
-                    "Cook the bacon in a Dutch oven over medium heat until crisp.",
-                    "Remove the bacon from the pot and set aside.",
-                    "Brown the beef in the remaining bacon fat.",
-                    "Add the carrots and onions, and sauté until softened.",
-                    "Pour in the wine, add the bacon back to the pot, and cover.",
-                    "Bake in the oven for 2 1/2 to 3 hours."
-                ],
-                "rating": 4.2
-            },
-            {
-                "recipe_name": "Quiche Lorraine",
-                "recipe_image": "https://example.com/quiche-lorraine.jpg",
-                "ingredients": [
-                    "pie crust",
-                    "bacon",
-                    "gruyere cheese",
-                    "eggs",
-                    "heavy cream"
-                ],
-                "cooking_method": [
-                    "Preheat the oven to 375°F.",
-                    "Cook the bacon in a skillet over medium heat until crisp.",
-                    "Drain the bacon and crumble it.",
-                    "Roll out the pie crust and fit it into a 9-inch pie dish.",
-                    "Sprinkle the bacon and cheese over the bottom of the crust.",
-                    "Whisk together the eggs and cream, and pour the mixture over the bacon and cheese."
-                ],
-                "rating": 4.9
+                    "Sauté chicken.",
+                    "Add crayfish and white wine.",
+                    "Simmer with cream and butter.",
+                    "Serve with rice or potatoes."
+                ]
             }
         ]
     }
