@@ -389,6 +389,7 @@
                 "ingredients": [
                     "apples",
                     "butter",
+                    "lobster",
                     "sugar",
                     "puff pastry"
                 ],
@@ -418,7 +419,8 @@
                     "artichokes",
                     "black truffle",
                     "cream",
-                    "butter"
+                    "butter",
+                    "puff pastry"
                 ],
                 "cooking_method": [
                     "Cook artichokes in butter and cream.",
@@ -433,6 +435,7 @@
                 "ingredients": [
                     "lobster",
                     "cognac",
+                    "black truffle",
                     "cream",
                     "butter"
                 ],
@@ -450,6 +453,7 @@
                     "artichoke hearts",
                     "foie gras",
                     "butter",
+                    "lobster",
                     "white wine"
                 ],
                 "cooking_method": [
